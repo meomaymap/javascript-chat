@@ -1,5 +1,6 @@
 // initialize websockets:
-var ws_uri = "ws://127.0.0.1:9600";
+//var ws_uri = "ws://127.0.0.1:9600";
+var ws_uri = "ws://https://meomaymap.github.io/javascript-chat";
 var websocket = new WebSocket(ws_uri);
 
 
